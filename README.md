@@ -18,19 +18,19 @@ All the transaction details are shown in the execution results below.
   <br />
   Below shows the compilation of each of the solidity code files.
 <p>
-KaseiCoin.sol
+KaseiCoin.sol<br />
 <img src="img/adv_sol_050_1.png"> <br />
 </p>
 <br />
 
 <p>
-KaseiCoinCrowdsale.sol
+KaseiCoinCrowdsale.sol<br />
 <img src="img/adv_sol_050_2.png"> <br />
 </p>
 <br />
 
 <p>
-KaseiDeployer.sol
+KaseiDeployer.sol<br />
 <img src="img/adv_sol_050_3.png"> <br />
 </p>
 <br />
@@ -39,13 +39,13 @@ KaseiDeployer.sol
   <br />
   Below shows the Ganace accounts and shown in Remix
 <p>
-Ganache
+Ganache <br />
 <img src="img/adv_sol_ganache_accs.png"> <br />
 </p>
 <br />
 
 <p>
-Remix
+Remix <br />
 <img src="img/adv_sol_ganache_in_remix.png"> <br />
 </p>
 <br />
