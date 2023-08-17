@@ -16,7 +16,7 @@ All the transaction details are shown in the execution results below.
 
 * __*1 - Solidity Compilation*__
   <br />
-  Below shows the compilation of each of the solidity code files.
+  Below shows the compilation of each of the solidity code files. I split the files up because I having issues running the deployer within the crowdsale function.
 <p>
 KaseiCoin.sol<br />
 <img src="img/adv_sol_050_1.png"> <br />
